@@ -77,7 +77,7 @@
 <li>С помощью показателей LTR, CAC%, ЗП Учителей%, ФОТ%, Маржа% визуализируем юнит-экономику.</li> 
   
 <p> Ссылка на проект:
-> https://github.com/Badretdinova/Analyst/blob/main/Сборка%20калькулятора%20юнит-экономики-2.xlsx </a>
+> https://github.com/Badretdinova/Analyst/blob/main/Сборка%20калькулятора%20юнит-экономики-2.xlsx
 </p> 
  
 <p>Выводы (итоги):<p>
